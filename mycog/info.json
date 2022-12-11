@@ -4,13 +4,13 @@
     ],
     "install_msg": "",
     "name": "",
-    "disabled": ,
+    "disabled": false,
     "short": "",
     "description": "",
     "tags": [
         ""
     ],
-    "hidden": ,
+    "hidden": false,
     "min_bot_version": "",
     "max_bot_version": ""
 }
